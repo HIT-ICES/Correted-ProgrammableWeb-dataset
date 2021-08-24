@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contains the data and utils used in *Analyzing the ProgrammableWeb Service Ecosystem from a Dynamic Network Perspective*.
+This repo contains the data and utils used in *Data Correction and Evolution Analysis of the ProgrammableWeb Service Ecosystem*.
 
 Here is the content of each folder:
 
@@ -42,3 +42,16 @@ The raw data has been formatted in csv type. Some universal column names and the
 - `accessibility` subfolder contains APIs' accessibility and Mashups' accessibility. These data are collected by visiting the Homepage URL or API Endpoint or API Portal. With the dataset we can know if an service is still working.
 - `all_pairs.txt`: A Mashup may invoke many APIs, and we collect the co-work APIs data and the frequencies as API pairs.
 
+
+### Citation
+If you make use of this code, we appreciate it if you can cite our paper as follows:
+```
+@misc{liu2021data,
+      title={Data Correction and Evolution Analysis of the ProgrammableWeb Service Ecosystem}, 
+      author={Mingyi Liu and Zhiying Tu and Yeqi Zhu and Xiaofei Xu and Zhongjie Wang and Quan Z. Sheng},
+      year={2021},
+      eprint={2108.09417},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+```
