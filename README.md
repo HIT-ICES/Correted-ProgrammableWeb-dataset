@@ -46,12 +46,12 @@ The raw data has been formatted in csv type. Some universal column names and the
 ### Citation
 If you make use of this code, we appreciate it if you can cite our paper as follows:
 ```
-@misc{liu2021data,
-      title={Data Correction and Evolution Analysis of the ProgrammableWeb Service Ecosystem}, 
-      author={Mingyi Liu and Zhiying Tu and Yeqi Zhu and Xiaofei Xu and Zhongjie Wang and Quan Z. Sheng},
-      year={2021},
-      eprint={2108.09417},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE}
+@article{liu2021data,
+  title={Data correction and evolution analysis of the ProgrammableWeb service ecosystem},
+  author={Liu, Mingyi and Tu, Zhiying and Zhu, Yeqi and Xu, Xiaofei and Wang, Zhongjie and Sheng, Quan Z},
+  journal={Journal of Systems and Software},
+  pages={111066},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
